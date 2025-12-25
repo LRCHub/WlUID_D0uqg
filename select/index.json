@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おけまる",
+  "base_artist": "エマ from BEST FRIENDS！",
+  "createdAt": "2025-12-25T17:26:09.810840Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おけまる",
+      "artist": "エマ from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_おけまる_エマ_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
